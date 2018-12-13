@@ -4,7 +4,7 @@ PImage img;
 void setup(){
   
 size (512,384);
-img =   loadImage ("JACKIE.Halloween.png");
+img =   loadImage ("Squidward_Design_2.jpg");
   image (img,0,0);
 }
 
